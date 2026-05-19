@@ -46,14 +46,6 @@ Building scalable web and mobile applications
 
 ---
 
-# 🌎 Connect
-
-<p align="center">
-<a href="https://github.com/matheuspfeifer-afk">GitHub</a>
-</p>
-
----
-
 <h3 align="center">
 Clean Code • Scalable Systems • Great UX
 </h3>
